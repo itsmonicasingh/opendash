@@ -1,0 +1,17 @@
+{
+  "name": "opendash-instance-demo",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "build": "opendash build",
+    "watch": "opendash build -ws",
+    "dev": "opendash build -ws --source-map=inline-source-map"
+  },
+  "dependencies": {
+    "@opendash/user-adapter-local": "^4.0.0",
+    "opendash": "^2.0.0"
+  },
+  "devDependencies": {
+    "opendash-cli": "^1.0.0"
+  }
+}

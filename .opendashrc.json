@@ -1,0 +1,6 @@
+{
+  "type": "Instance",
+  "dist": "dist",
+  "index": "app/index.html",
+  "entry": "app/js/app.js"
+}
