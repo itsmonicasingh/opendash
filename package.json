@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "@opendash/user-adapter-local": "^4.0.0",
-    "opendash": "^2.0.0"
+    "@opendash/user-adapter-parse-plus": "^4.4.0",
+    "opendash": "^2.0.0",
+    "parse": "^2.7.1"
   },
   "devDependencies": {
     "opendash-cli": "^1.0.0"
