@@ -14,6 +14,6 @@
     "parse": "^2.7.1"
   },
   "devDependencies": {
-    "opendash-cli": "^1.0.0"
+    "opendash-cli": "^2.0.0-beta.8"
   }
 }
